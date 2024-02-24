@@ -1,0 +1,13 @@
+leaf position: 700
+leaf value: "data item 700"
+Hash values in proof:
+  owFJSd3ZyY/kvc3y0Oby+9WpypH3Yt4FWAlj4gOJYj0=
+  Ek+k7/GZLC3V8Gj8zqs9Zz0PF2DFqG2/evMY6141W2o=
+  RquuVejxRTwiullrKbi7jph9eHHH6VqyTFlEJ+raVO0=
+  8TnxRctXcjd1WxgLQSwskzvqnboXRAqT/WpT2T3QACY=
+  nx6dTPTVgINpE9Q+vJJcTthTZugxSUIXV+32LyEOjpo=
+  dO6PBAA0slDeMo9aRZNBzU/sEPlBdnt8++yMkVkCtmc=
+  z+U4JopwFQNyvxSG1et57NmjYa4+3IuaekeHzLf9BKk=
+  UywmG+lDotV4vQWdVWg7niAo0M+g+mARmS5DroiPN64=
+  ZeRQOymGQ+LM35f/bP24BpH9LVZE7ROwGHVxS95D/oQ=
+  twyFI3AqQo8V1ieqq8JEOHlihMEd4RDHelIGVlW2CTg=
